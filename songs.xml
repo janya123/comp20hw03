@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<Page>
+    <Top>Set List!! ♫ </Top>
+    <Song>
+        <Title>Kal Ho Naa Ho</Title>
+        <Artist>Sonu Nigam</Artist>
+        <Genres>
+            <Genre>Bollywood, </Genre>
+            <Genre>Desi Pop</Genre>
+        </Genres>
+        <Year>2003</Year>
+    </Song>
+    <Song>
+        <Title>Baarishein</Title>
+        <Artist>Anuv Jain</Artist>
+        <Genres>
+            <Genre>Indian Indie</Genre>
+        </Genres>
+        <Year>2018</Year>
+    </Song>
+    <Song>
+        <Title>You Right</Title>
+        <Artist>Doja Cat</Artist>
+        <Genres>
+            <Genre>R&#38;B/Soul, </Genre>
+            <Genre>Pop</Genre>
+        </Genres>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Title>Save Your Tears</Title>
+        <Artist>The Weeknd</Artist>
+        <Genres>
+            <Genre>Synth-pop, </Genre>
+            <Genre>Synthwave</Genre>
+        </Genres>
+        <Year>2020</Year>
+    </Song>
+    <Song>
+        <Title>Girls Want Girls</Title>
+        <Artist>Drake</Artist>
+        <Genres>
+            <Genre>Pop, </Genre>
+            <Genre>Rap</Genre>
+        </Genres>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Title>Tum Hi Ho</Title>
+        <Artist>Arjit Singh</Artist>
+        <Genres>
+            <Genre>Bollywood, </Genre>
+            <Genre>Desi Pop</Genre>
+        </Genres>
+        <Year>2013</Year>
+    </Song>
+    <Song>
+        <Title>Gul</Title>
+        <Artist>Anuv Jain</Artist>
+        <Genres>
+            <Genre>Indian Indie</Genre>
+        </Genres>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Title>Ceux qui revent</Title>
+        <Artist>Pomme</Artist>
+        <Genres>
+            <Genre>French Pop</Genre>
+        </Genres>
+        <Year>2017</Year>
+    </Song>
+    <Song>
+        <Title>One More Weekend</Title>
+        <Artist>Maude Latour</Artist>
+        <Genres>
+            <Genre>Indie</Genre>
+        </Genres>
+        <Year>2021</Year>
+    </Song>
+    <Song>
+        <Title>Way You Walk</Title>
+        <Artist>Papas Fritas</Artist>
+        <Genres>
+            <Genre>Alternative, </Genre>
+            <Genre>Indie Rock</Genre>
+        </Genres>
+        <Year>2000</Year>
+    </Song>
+</Page>
